@@ -1,0 +1,117 @@
+>> py mydig.py google.com
+QUESTION SECTION:
+google.com. IN A
+
+ANSWER SECTION:
+google.com. 300 IN A 172.217.10.238
+
+QUERY TIME: 132.873 msec
+WHEN: 2020-02-23 22:52:43.894944
+
+>> py mydig.py youtube.com
+QUESTION SECTION:
+youtube.com. IN A
+
+ANSWER SECTION:
+youtube.com. 300 IN A 172.217.7.14
+
+QUERY TIME: 135.609 msec
+WHEN: 2020-02-23 22:53:29.057487
+
+py mydig.py tmall.com
+QUESTION SECTION:
+tmall.com. IN A
+
+ANSWER SECTION:
+tmall.com. 300 IN A 140.205.94.193
+tmall.com. 300 IN A 140.205.130.99
+
+QUERY TIME: 193.279 msec
+WHEN: 2020-02-23 22:53:51.780743
+
+>> py mydig.py facebook.com
+QUESTION SECTION:
+facebook.com. IN A
+
+ANSWER SECTION:
+facebook.com. 300 IN A 31.13.71.36
+
+QUERY TIME: 146.08499999999998 msec
+WHEN: 2020-02-23 22:55:25.612784
+
+>> py mydig.py yahoo.com
+QUESTION SECTION:
+yahoo.com. IN A
+
+ANSWER SECTION:
+yahoo.com. 1800 IN A 72.30.35.10
+yahoo.com. 1800 IN A 98.137.246.8
+yahoo.com. 1800 IN A 98.138.219.231
+yahoo.com. 1800 IN A 98.137.246.7
+yahoo.com. 1800 IN A 98.138.219.232
+yahoo.com. 1800 IN A 72.30.35.9
+
+QUERY TIME: 132.8 msec
+WHEN: 2020-02-23 22:56:00.653584
+
+>> py mydig.py amazon.com
+QUESTION SECTION:
+amazon.com. IN A
+
+ANSWER SECTION:
+amazon.com. 60 IN A 176.32.98.166
+amazon.com. 60 IN A 176.32.103.205
+amazon.com. 60 IN A 205.251.242.103
+
+QUERY TIME: 233.275 msec
+WHEN: 2020-02-23 22:56:31.024770
+
+>> py mydig.py wikipedia.org
+QUESTION SECTION:
+wikipedia.org. IN A
+
+ANSWER SECTION:
+wikipedia.org. 600 IN A 208.80.154.224
+
+QUERY TIME: 134.656 msec
+WHEN: 2020-02-23 22:56:54.430706
+
+>> py mydig.py reddit.com
+QUESTION SECTION:
+reddit.com. IN A
+
+ANSWER SECTION:
+reddit.com. 300 IN A 151.101.129.140
+reddit.com. 300 IN A 151.101.1.140
+reddit.com. 300 IN A 151.101.193.140
+reddit.com. 300 IN A 151.101.65.140
+
+QUERY TIME: 202.503 msec
+WHEN: 2020-02-23 22:57:14.440974
+
+>> py mydig.py netflix.com
+QUESTION SECTION:
+netflix.com. IN A
+
+ANSWER SECTION:
+netflix.com. 60 IN A 35.169.45.33
+netflix.com. 60 IN A 34.238.74.93
+netflix.com. 60 IN A 52.87.118.227
+netflix.com. 60 IN A 54.173.169.115
+netflix.com. 60 IN A 52.3.169.18
+netflix.com. 60 IN A 52.86.210.197
+netflix.com. 60 IN A 54.174.232.127
+netflix.com. 60 IN A 54.85.175.142
+
+QUERY TIME: 182.088 msec
+WHEN: 2020-02-23 22:57:33.018802
+
+>> py mydig.py blogspot.com
+QUESTION SECTION:
+blogspot.com. IN A
+
+ANSWER SECTION:
+blogspot.com. 300 IN A 172.217.12.169
+
+QUERY TIME: 138.381 msec
+WHEN: 2020-02-23 22:57:54.990335
